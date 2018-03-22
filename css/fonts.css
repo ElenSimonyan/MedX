@@ -1,0 +1,55 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese';
+
+@font-face {
+    font-family: 'pfdintextPro-light';
+    src: url('../fonts/pfdintextPro-light/pfdintextPro-light.eot');
+    src: url('../fonts/pfdintextPro-light/pfdintextPro-light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/pfdintextPro-light/pfdintextPro-light.woff') format('woff'),
+    url('../fonts/pfdintextPro-light/pfdintextPro-light.ttf') format('truetype'),
+    url('../fonts/pfdintextPro-light/pfdintextPro-light.svg#pf_beausans_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pfdintextPro-lightItalic';
+    src: url('../fonts/pfdintextPro-lightItalic/pfdintextPro-lightItalic.eot');
+    src: url('../fonts/pfdintextPro-lightItalic/pfdintextPro-lightItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/pfdintextPro-lightItalic/pfdintextPro-lightItalic.woff') format('woff'),
+    url('../fonts/pfdintextPro-lightItalic/pfdintextPro-lightItalic.ttf') format('truetype'),
+    url('../fonts/pfdintextPro-lightItalic/pfdintextPro-lightItalic.svg#pf_beausans_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pfdintextPro-medium';
+    src: url('../fonts/pfdintextPro-medium/pfdintextPro-medium.eot');
+    src: url('../fonts/pfdintextPro-medium/pfdintextPro-medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/pfdintextPro-medium/pfdintextPro-medium.woff') format('woff'),
+    url('../fonts/pfdintextPro-medium/pfdintextPro-medium.ttf') format('truetype'),
+    url('../fonts/pfdintextPro-medium/pfdintextPro-medium.svg#pf_beausans_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pfdintextPro-reg';
+    src: url('../fonts/pfdintextPro-reg/pfdintextPro-reg.eot');
+    src: url('../fonts/pfdintextPro-reg/pfdintextPro-reg.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/pfdintextPro-reg/pfdintextPro-reg.woff') format('woff'),
+    url('../fonts/pfdintextPro-reg/pfdintextPro-reg.ttf') format('truetype'),
+    url('../fonts/pfdintextPro-reg/pfdintextPro-reg.svg#pf_beausans_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*@font-face {*/
+    /*font-family: '';*/
+    /*src: url('../fonts//.eot');*/
+    /*src: url('../fonts//.eot?#iefix') format('embedded-opentype'),*/
+    /*url('../fonts//.woff') format('woff'),*/
+    /*url('../fonts//.ttf') format('truetype'),*/
+    /*url('../fonts//.svg#pf_beausans_prothin') format('svg');*/
+    /*font-weight: normal;*/
+    /*font-style: normal;*/
+/*}*/
